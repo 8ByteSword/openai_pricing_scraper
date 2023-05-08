@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.swp
+*.swo
+*.sqlite
+*.tar.gz
+.env
+.venv/
+*.pyc
+__pycache__/
